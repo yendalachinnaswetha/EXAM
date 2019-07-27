@@ -1,0 +1,28 @@
+nav{
+	background-color:green;
+	height:60px;
+    width:100%;
+}
+ nav ul li{
+ 	float:left;
+ 	list-style-type:none;
+ 	padding-left:20px;
+ 	padding-top:10px;
+ }
+ ul li a{
+ 	text-decoration:none;
+ 	color:white;
+ }
+ .dropdownlist{
+ 	display:none;
+ }
+ .dropdownlist a{
+ 	display:block;
+ 	color:white;
+ 	background-color:red;
+ }
+ .dropdown:hover .dropdownlist{
+ 	display:block;
+ }
+ 	
+ }
